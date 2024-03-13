@@ -16,7 +16,7 @@ public class Eliminarvocales {
                 c != 'A' && c != 'E' && c != 'I' && c != 'O' && c != 'U') {
                 resultado.append(c);
             }
-        }
+        }/*asdad */
 
         String fraseSinVocales = resultado.toString();
         System.out.println("Frase sin vocales: " + fraseSinVocales);
