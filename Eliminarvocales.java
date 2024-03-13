@@ -20,5 +20,8 @@ public class Eliminarvocales {
 
         String fraseSinVocales = resultado.toString();
         System.out.println("Frase sin vocales: " + fraseSinVocales);
+
+        System.out.println("Frase original: " + frase);
+        System.out.println("Frase original: " + frase);
     }
 }
